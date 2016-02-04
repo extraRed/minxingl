@@ -1,2 +1,2 @@
-# minxingl.github.io
+# minxingl.me
 Personal Website
